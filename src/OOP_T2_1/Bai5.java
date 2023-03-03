@@ -7,7 +7,7 @@ public class Bai5 {
         Scanner sc = new Scanner(System.in);
         int Sum = 0;
         while (Sum <= 100) {
-            System.out.print("ENTER : ");
+            System.out.print("ENTER (Sum > 100) : ");
             int number = sc.nextInt();
             Sum += number;
         }
