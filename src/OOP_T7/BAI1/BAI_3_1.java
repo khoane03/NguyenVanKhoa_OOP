@@ -1,4 +1,4 @@
-package OOP_T7;
+package OOP_T7.BAI1;
 import java.util.Scanner;
 
 class SACH {
